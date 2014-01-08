@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46450044187DA0BA007E46F8 /* Screenshot 2014.01.08 23.01.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 4645F897187DA0BA007E46F8 /* Screenshot 2014.01.08 23.01.16.png */; };
 		4645F072187D9667007E46F8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4645F071187D9667007E46F8 /* Foundation.framework */; };
 		4645F074187D9667007E46F8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4645F073187D9667007E46F8 /* CoreGraphics.framework */; };
 		4645F076187D9667007E46F8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4645F075187D9667007E46F8 /* UIKit.framework */; };
@@ -98,6 +99,7 @@
 		4645F0CF187D9739007E46F8 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		4645F0D1187D9745007E46F8 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
 		4645F0D3187D975C007E46F8 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4645F897187DA0BA007E46F8 /* Screenshot 2014.01.08 23.01.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2014.01.08 23.01.16.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		4645F065187D9667007E46F8 = {
 			isa = PBXGroup;
 			children = (
+				4645F897187DA0BA007E46F8 /* Screenshot 2014.01.08 23.01.16.png */,
 				4645F0CB187D96A6007E46F8 /* pinyin */,
 				4645F0A6187D969F007E46F8 /* RHAddressBook */,
 				4645F077187D9667007E46F8 /* AddressbookDemo */,
@@ -306,6 +309,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 4645F065187D9667007E46F8;
 			productRefGroup = 4645F06F187D9667007E46F8 /* Products */;
@@ -323,6 +327,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46450044187DA0BA007E46F8 /* Screenshot 2014.01.08 23.01.16.png in Resources */,
 				4645F08A187D9667007E46F8 /* Images.xcassets in Resources */,
 				4645F07C187D9667007E46F8 /* InfoPlist.strings in Resources */,
 				4645F085187D9667007E46F8 /* Main.storyboard in Resources */,
